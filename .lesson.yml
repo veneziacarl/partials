@@ -1,0 +1,8 @@
+---
+title: "Partials"
+type: "exercise"
+description: "Improve the code quality of the Movie Shack Hut webapp."
+visibility: "assign"
+tags: "evening-exercise, rails, partials"
+ignore:
+- "partials.md"
